@@ -1,4 +1,3 @@
-name=README.md
 # 👋 Hi, I'm Sina Haseli
 
 **Blockchain Developer** | **Backend Engineer** | **Web3 Specialist** | **Open Source Contributor**  
